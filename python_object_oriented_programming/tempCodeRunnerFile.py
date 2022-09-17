@@ -1,2 +1,2 @@
-print(b2 >= b1)
-# print(b2 < b1)
+obj.value1 = "Another Value"
+# print(obj.value1)
