@@ -3,7 +3,6 @@
 from dataclasses import dataclass
 
 
-
 # 1TODO: The 'frozen' parameter makes the class immutable
 @dataclass(frozen=True)
 class ImmutableClass:
